@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+	<file>shaders/basicLlumShader.vert</file>
+	<file>shaders/basicLlumShader.frag</file>
+</qresource >
+</RCC>

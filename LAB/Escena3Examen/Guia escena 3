@@ -1,0 +1,9 @@
+MIERDAS VARIAS
+
+90º = pi/2
+
+
+Hay dos patricios con sus transformaciones pertinentes y con su camarita bien inicializada, la cual podemos mover mediante el raton y angulos de eulter
+El patricio pequeño usando A y D se mueve por la escena
+Ponemos un foco de luz blanca encima del patricio y se mueve juntamente con el 
+Hacemos que al pulsar la C la camara pase a estar encima del miniPatricio y mirando hacia el patricio grande, la camara se mueve con el.

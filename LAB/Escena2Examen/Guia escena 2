@@ -1,0 +1,11 @@
+MIERDAS VARIAS
+
+90º = pi/2
+
+
+En examen escena2 quitamos los patricios para poner una vaca de altura 0.5 y un patricio de altura 0.25, les hacemos las transformaciones pertinentes y hacemos que pulsando la R los dos objetos roten.
+
+Hacemos que la vaca se pinte de un color diferente pasandole uniforms al VS.
+ Modificamos la camara para tener una camara perspectiva situada en una esquina.
+ Hacemos que al pulsar la X  todo se vea en blanco y negro
+

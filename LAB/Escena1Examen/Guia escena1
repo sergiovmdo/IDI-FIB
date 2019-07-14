@@ -1,0 +1,8 @@
+MIERDAS VARIAS
+
+90º = pi/2
+
+
+en examen escena1, añadimos otro objeto (Patricio) a la escena y le hacemos sus transformaciones para ponerlo cabeza para abajo, e implementamos una camara con angulos de euler para poder mover la escena con el raton.
+Tambien implementamos el calculo de un foco de CAMARA usando el model de Phong en el VS, y pulsando el boton derecho hacemos zoom sobre la escena.
+Hacemos zoom mediante un slider, añadimos un par de funciones que lo hacen funcionar.
